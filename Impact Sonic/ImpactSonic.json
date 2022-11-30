@@ -1,0 +1,49 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Configuration",
+         "Elements": [
+ 
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Boost Animation",
+               "Description": [
+                  " ",
+               ],
+               "Type": "ModelEnum",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "closed_hands"
+            },
+
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "ModelEnum": [
+
+         {
+            "DisplayName": "Closed hands",
+            "Value": "closed_hands",
+            "Description": [
+               "boost animation has closed hands",
+            ]
+         },
+
+         {
+            "DisplayName": "Open hands",
+            "Value": "open_hands",
+            "Description": [
+               "Boost animation has opened hands",
+            ]
+         },
+
+
+      ],
+         
+   },
+   "IniFile": "mod.ini"
+}
