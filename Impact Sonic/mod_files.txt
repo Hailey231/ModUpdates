@@ -2,6 +2,7 @@ delete raw/character/sonic.pac
 delete raw/character/supersonic.pac
 delere raw/dlc/dlccrm/dlccrm.pac
 add main/raw/character/supersonic.pac
+add main/raw/character/soniccyber.pac
 add main/raw/dlc/dlccrm/dlccrm.pac
 add closed_hands/raw/character/sonic.pac
 add open_hands/raw/character/sonic.pac
