@@ -1,3 +1,6 @@
+## Frontiers Sonic V2.1
+- Literally just to make sure people got the update
+
 ## Frontiers Sonic V2.0
 - Added Frontiers sounds and voice
 - Added the other DLC outfits
