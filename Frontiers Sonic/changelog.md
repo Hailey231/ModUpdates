@@ -1,3 +1,6 @@
+## Frontiers Sonic V3.0
+- Forgot a file for Sonic's normal outfit
+
 ## Frontiers Sonic V2.1
 - Literally just to make sure people got the update
 
