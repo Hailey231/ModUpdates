@@ -70,6 +70,7 @@ add disk_adventurer/bb3/Sonic.ar.02
 add disk_adventurer/bb3/Sonic.ar.03
 add disk_adventurer/bb3/Sonic.ar.04
 add disk_adventurer/bb3/Sonic.arl
+add disk_default_outfit/bb3/Sonic.ar.00
 add disk_default_outfit/bb3/Sonic.ar.01
 add disk_default_outfit/bb3/Sonic.ar.02
 add disk_default_outfit/bb3/Sonic.ar.03
