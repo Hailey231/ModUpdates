@@ -92,3 +92,4 @@ delete disk_felyne_rathalos/bb3/Sonic.ar.04
 add disk_felyne_rathalos/bb3/Sonic.arl
 add FrontiersSonic.json
 add The_ar_files_are_compressed.txt
+add mod.ini
