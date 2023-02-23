@@ -1,3 +1,9 @@
+## Frontiers Sonic V4.0
+- Added more Frontiers sounds
+- New S rank animation
+- New materials for DLC outfits
+- Added support for the Unleashed project and some of SU restorations 
+
 ## Frontiers Sonic V3.0
 - Forgot a file for Sonic's normal outfit
 
