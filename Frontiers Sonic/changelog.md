@@ -1,3 +1,9 @@
+## Frontiers Sonic V5.0
+- Added Frontiers emerald dance and Cyber Space results music. All rank animations have been replaced with the dance because of this.
+- New materials done by iulian204_
+- Fixed eyebrow problems seen when using pulleys and the board
+- Made one of the boost sounds loop
+
 ## Frontiers Sonic V4.0
 - Added more Frontiers sounds
 - New S rank animation
