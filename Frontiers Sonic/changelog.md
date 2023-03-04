@@ -1,3 +1,6 @@
+## Frontiers Sonic V6.0
+- Fixed texture issues with Sonic's eyes and the holiday cheer suit
+
 ## Frontiers Sonic V5.0
 - Added Frontiers emerald dance and Cyber Space results music. All rank animations have been replaced with the dance because of this.
 - New materials done by iulian204_
