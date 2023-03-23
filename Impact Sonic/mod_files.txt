@@ -6,5 +6,6 @@ add main/raw/character/soniccyber.pac
 add main/raw/dlc/dlccrm/dlccrm.pac
 add closed_hands/raw/character/sonic.pac
 add open_hands/raw/character/sonic.pac
+add main/raw/dlc/dlcxmas/dlcxmas.pac
 add ImpactSonic.json
 add mod.ini
