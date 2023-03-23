@@ -1,3 +1,7 @@
+## Impact Sonic v5.0
+- Added support for the latest version of the game
+- Added Holiday Cheer outfit
+
 ## Impact Sonic v4.0
 - Cutscene support
 - Shoe emission
