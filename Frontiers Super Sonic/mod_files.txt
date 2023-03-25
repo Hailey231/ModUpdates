@@ -1,1 +1,14 @@
+add frontiers_super_frontiers_anims/raw/character/sonic.pac
+add main/raw/character/soniccyber.pac
+add main/raw/character/supersonic.pac
+add main/raw/dlc/dlccrm/dlccrm.pac
+add main/raw/dlc/dlcmhr/dlcmhr_costume_airou.pac
+add main/raw/dlc/dlcmhr/dlcmhr_costume_hunter.pac
+add main/raw/sound/sonic_sound/se_rangers_player_sonic.acb
+add main/raw/text/text_common_en.pac
+add SuperSonic.json
+add frontiers_super/raw/character/sonic.pac
+delete raw/character/sonic.pac
+delete raw/dlc/dlccrm/dlccrm.pac
+delete raw/sound/sonic_sound/se_rangers_player_sonic.acb
 add mod.ini
