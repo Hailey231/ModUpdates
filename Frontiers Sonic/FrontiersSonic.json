@@ -1,0 +1,94 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Configuration",
+         "Elements": [
+ 
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Sonic's outfit",
+               "Description": [
+                  "Choose between the DLC outfits from Frontiers and Sonic's normal outfit",
+               ],
+               "Type": "ModelEnum",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "disk_default_outfit"
+            },
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "ModelEnum": [
+
+         {
+            "DisplayName": "Normal Sonic",
+            "Value": "disk_default_outfit",
+            "Description": [
+               " ",
+            ]
+         },
+
+         {
+            "DisplayName": "Soap shoes",
+            "Value": "disk_soap_shoes",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Inugami Korone outfit",
+            "Value": "disk_korone_outfit",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Adventurer's outfit",
+            "Value": "disk_adventurer",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Felyne Rathalos outfit",
+            "Value": "disk_felyne_rathalos",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Rathalos outfit",
+            "Value": "disk_rathalos",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Holiday cheer suit",
+            "Value": "disk_holiday_cheer",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Sonic's Birthday Party Outfit",
+            "Value": "disk_birthday",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Frontier Elite",
+            "Value": "disk_elite",
+            "Description": [
+               " ",
+            ]
+         }
+      ],
+   },
+   "IniFile": "mod.ini"
+}
