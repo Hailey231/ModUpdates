@@ -1,3 +1,6 @@
+## Frontiers Sonic V7.0
+- New Frontiers update 2 outfits
+
 ## Frontiers Sonic V6.0
 - Fixed texture issues with Sonic's eyes and the holiday cheer suit
 
