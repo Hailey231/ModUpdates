@@ -1,3 +1,6 @@
+## Impact Sonic v6.0
+- Update 3 support
+
 ## Impact Sonic v5.0
 - Added support for the latest version of the game
 - Added Holiday Cheer outfit
