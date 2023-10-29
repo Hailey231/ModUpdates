@@ -1,5 +1,5 @@
 ## Impact Sonic v7.0
--Fixed spindash
+-Fixed Spindash
 -Fixed SS2
 -Added backlight shoe emissions to Super Sonic and SS2
 -Realigned bottom shoe textures
