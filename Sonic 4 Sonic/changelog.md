@@ -3,6 +3,7 @@
 - Episode 1 Sonic now has cel shading
 - Added more sounds from Sonic 4
 - Added Sonic 4 speed booster
+- Remapped the light speed dash to left stick
 
 ## Sonic 4 Sonic V1.0
 - First release
