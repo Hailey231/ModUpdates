@@ -2,8 +2,7 @@
 - Added Sonic Frontiers style controls
 - Added Super Sonic 2
 - Added Spindash and Drop Dash
-###
-Nothing added is perfect but I am done with this thing
+- Nothing added is perfect but I am done with this thing
 
 ## Frontiers Sonic V7.0
 - Added Frontiers update 2 outfits
