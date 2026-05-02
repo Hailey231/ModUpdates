@@ -1,3 +1,6 @@
+## Frontiers Sonic V8.1
+- Forgot sound files
+  
 ## Frontiers Sonic V8.0
 - Added Sonic Frontiers style controls
 - Added Super Sonic 2
