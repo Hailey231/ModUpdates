@@ -1,0 +1,146 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Configuration",
+         "Elements": [
+
+            {
+               "Name": "dlcType",
+               "DisplayName": "Sonic's Appearance",
+               "Description": [
+                  "Choose between the DLC outfits from Frontiers and Sonic's normal outfit (outfits currently do not have support for the PBR shaders mod so attempting to use them will make Sonic use the default outfit until the PBR Shaders mod is disabled)",
+               ],
+               "Type": "ModelEnum",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "0"
+          },
+          {
+               "Name": "superForm",
+               "DisplayName": "Sonic's Super Form",
+               "Description": [
+                  "Choose between Super Sonic and Super Sonic 2",
+               ],
+               "Type": "SuperEnum",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "0"
+          },
+          {
+            "Name": "powerBoost",
+            "DisplayName": "Power Boost Ring Requirement",
+            "Description": [
+              "Choose the amount of rings required to use the power boost (0 gives you permanent power boost and -1 disables the power boost)"
+            ],
+            "Type": "int",
+            "MinValue": null,
+            "MaxValue": null,
+            "DefaultValue": 100
+          },
+	    {
+               "Name": "powerAttack",
+	       "DisplayName": "Power Boost Damage",
+	       "Description":
+	        [
+                  "Makes the power boost damage enemies"
+	        ],
+	        "Type":"bool",
+	        "MinValue":null,
+	        "MaxValue":null,
+	        "DefaultValue":false
+            },
+        ]
+      }
+   ],
+   
+   "Enums": {
+
+      "ModelEnum": [
+
+         {
+            "DisplayName": "Normal Sonic",
+            "Value": "0",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Soap shoes",
+            "Value": "1",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Inugami Korone outfit",
+            "Value": "2",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Adventurer's outfit",
+            "Value": "3",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Felyne Rathalos outfit",
+            "Value": "4",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Rathalos outfit",
+            "Value": "5",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Holiday cheer suit",
+            "Value": "6",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Sonic's Birthday Party Outfit",
+            "Value": "7",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Frontier Elite",
+            "Value": "8",
+            "Description": [
+               " ",
+            ]
+         }
+
+      ],
+      "SuperEnum": [
+
+         {
+            "DisplayName": "Super Sonic",
+            "Value": "0",
+            "Description": [
+               " ",
+            ]
+         },
+         {
+            "DisplayName": "Super Sonic 2",
+            "Value": "1",
+            "Description": [
+               " ",
+            ]
+         }
+
+      ],
+   },
+   "IniFile": "mod.ini"
+}
