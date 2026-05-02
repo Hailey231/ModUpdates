@@ -96,8 +96,8 @@ add disk/bb3/SonicWater.ar.00
 add disk/bb3/SonicWater.arl
 add disk/bb3/voices/English/SonicVoice.ar.00
 add disk/bb3/voices/English/SonicVoice.arl
-add disk/Sound/SNG19_JNG.cpk
-add disk/Sound/SNG19_JNG.csb
+add Sound/SNG19_JNG.cpk
+add Sound/SNG19_JNG.csb
 delete disk_rathalos/bb3/Sonic.ar.00
 delete disk_rathalos/bb3/Sonic.ar.01
 delete disk_rathalos/bb3/Sonic.ar.02
