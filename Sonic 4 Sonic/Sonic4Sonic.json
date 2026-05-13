@@ -1,0 +1,90 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Configuration",
+         "Elements": [
+ 
+            {
+               "Name": "sonicType",
+               "DisplayName": "Sonic",
+               "Description": [
+                  " ",
+               ],
+               "Type": "ModelEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "0"
+            },
+	    {
+               "Name": "boostActive",
+	       "DisplayName": "Sonic 4 style",
+	       "Description":
+	        [
+                  "Disables the boost and tricks"
+	        ],
+	        "Type":"bool",
+	        "MinValue":null,
+	        "MaxValue":null,
+	        "DefaultValue":true
+            },
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "ModelEnum": [
+
+         {
+            "DisplayName": "Episode 1 Sonic",
+            "Value": "0",
+            "Description": [
+               " ",
+            ]
+         },
+
+         {
+            "DisplayName": "Episode 2 Sonic",
+            "Value": "1",
+            "Description": [
+               " ",
+            ]
+         },
+
+         {
+            "DisplayName": "Sonic the Portable",
+            "Value": "2",
+            "Description": [
+               " ",
+            ]
+         },
+                  {
+            "DisplayName": "Wii",
+            "Value": "3",
+            "Description": [
+               " ",
+            ]
+         },
+
+         {
+            "DisplayName": "Android",
+            "Value": "4",
+            "Description": [
+               " ",
+            ]
+         },
+
+         {
+            "DisplayName": "iOS",
+            "Value": "5",
+            "Description": [
+               " ",
+            ]
+         },
+
+      ],
+         
+   },
+   "IniFile": "mod.ini"
+}
