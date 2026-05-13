@@ -1,3 +1,7 @@
+## Sonic 4 Sonic V3.0
+- More Skins
+- Classic style crouching and looking up. Purely visual but I thought they'd be nice to have.
+
 ## Sonic 4 Sonic V2.0
 - Added Spindash (if you've played Frontiers you should know how to use it)
 - Episode 1 Sonic now has cel shading
