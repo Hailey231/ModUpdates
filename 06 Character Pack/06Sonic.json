@@ -1,0 +1,74 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Configuration",
+      "Elements": [
+        {
+          "Name": "IncludeDir0",
+	  "DisplayName": "Character",
+          "Description": [
+            "Pick between Sonic and Shadow"
+          ],
+            "Type": "CharacterEnum",
+            "MinValue": null,
+            "MaxValue": null,
+            "DefaultValue": "disk_sonic"
+        },
+        {
+          "Name": "IncludeDir2",
+	  "DisplayName": "physics",
+          "Description": [
+            "Pick between 06 style physics and base game physics"
+          ],
+            "Type": "PhysicsEnum",
+            "MinValue": null,
+            "MaxValue": null,
+            "DefaultValue": "disk_modifiedphysics"
+        },
+      ]
+    }
+  ],
+  "Enums": {
+    "CharacterEnum": [
+      {
+        "DisplayName": "Sonic the Hedgehog",
+        "Value": "disk_sonic",
+        "Description": [
+          "Play as Sonic",
+        ]
+      },
+      {
+        "DisplayName": "TGS Sonic",
+        "Value": "disk_sonic_tgs",
+        "Description": [
+          "Play as Sonic with TGS animations",
+        ]
+      },
+      {
+        "DisplayName": "Shadow the Hedgehog",
+        "Value": "disk_shadow",
+        "Description": [
+          "Play as Shadow",
+        ]
+      },
+    ],
+    "PhysicsEnum": [
+      {
+        "DisplayName": "06 style physics",
+        "Value": "disk_modifiedphysics",
+        "Description": [
+          "",
+        ]
+      },
+      {
+        "DisplayName": "Unleashed physics",
+        "Value": "disk_standardphysics",
+        "Description": [
+          "",
+        ]
+      },
+    ]
+  },
+  "IniFile": "mod.ini"
+}
