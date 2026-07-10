@@ -4,6 +4,10 @@ add disk_modifiedphysics/#Sonic.ar.00
 add disk_modifiedphysics/#Sonic.arl
 add disk_standardphysics/#Sonic.ar.00
 add disk_standardphysics/#Sonic.arl
-
+add disk_shadow/Sonic.ar.00
+add disk_shadow/Sonic.ar.01
+add disk_shadow/Sonic.ar.02
+add disk_shadow/Sonic.ar.03
+add disk_shadow/Sonic.arl
 add 06Sonic.json
 add mod.ini
