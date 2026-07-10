@@ -1,1 +1,9 @@
+delete disk_common/#Sonic.ar.00
+delete disk_common/#Sonic.arl
+add disk_modifiedphysics/#Sonic.ar.00
+add disk_modifiedphysics/#Sonic.arl
+add disk_standardphysics/#Sonic.ar.00
+add disk_standardphysics/#Sonic.arl
+
+add 06Sonic.json
 add mod.ini
